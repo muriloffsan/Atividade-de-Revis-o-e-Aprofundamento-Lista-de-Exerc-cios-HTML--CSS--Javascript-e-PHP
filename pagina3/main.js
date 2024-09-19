@@ -1,4 +1,4 @@
-var agendamentos = []; //array p armazenar os jogadores.
+var agendamentos = [];
 
 function criarNovoAgendamento(nomeDigitado, dataDigitada, horaDigitada){
     return{
