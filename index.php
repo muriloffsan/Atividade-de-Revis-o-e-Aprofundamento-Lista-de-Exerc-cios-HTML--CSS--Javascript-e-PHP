@@ -90,7 +90,7 @@
             <h2>Samuel Boaz de Morais Gonçalves</h2>
         </div>
         <div class="profile-card">
-            <img src="imagens/perfil3.jpg" alt="Foto de Andrey Montibeller de Toledo">
+            <img src="imagens/andreyFoto.png" alt="Foto de Andrey Montibeller de Toledo">
             <h2>ANDREY MONTIBELLER DE TOLEDO</h2>
         </div>
     </div>
