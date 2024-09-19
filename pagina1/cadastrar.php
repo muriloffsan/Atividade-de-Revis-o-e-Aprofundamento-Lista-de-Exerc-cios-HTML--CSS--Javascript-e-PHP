@@ -52,9 +52,30 @@
             from { opacity: 0; transform: translateY(-20px); }
             to { opacity: 1; transform: translateY(0); }
         }
+        .logout-button {
+            position: fixed;
+            top: 40px;
+            right: 40px;
+            background-color: #ff5722;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 16px;
+            font-weight: bold;
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .logout-button:hover {
+            background-color: #e64a19;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        }
     </style>
 </head>
 <body>
+    <a href="../index.php" class="logout-button">Sair</a>
     <div class="confirmation-container">
         <h2>Cadastro Realizado com Sucesso!</h2>
         <ul>
