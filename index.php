@@ -81,7 +81,7 @@
     <nav>
         <ul>
             <li><a href="pagina1/form.php">Exercicio 1</a></li>
-            <li><a href="pagina2/exercicio2.php">Exercicio 2</a></li>
+            <li><a href="pagina2/feedback.php">Exercicio 2</a></li>
             <li><a href="pagina3/exercicio3.php">Exercicio 3</a></li>
         </ul>
     </nav>
