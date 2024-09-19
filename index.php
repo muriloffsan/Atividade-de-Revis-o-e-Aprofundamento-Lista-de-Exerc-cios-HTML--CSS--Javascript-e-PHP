@@ -74,9 +74,9 @@
 
     <nav>
         <ul>
-            <li><a href="pagina1.php">Exercicio 1</a></li>
-            <li><a href="pagina2.php">Exercicio 2</a></li>
-            <li><a href="pagina3.php">Exercicio 3</a></li>
+            <li><a href="exercicio1.php">Exercicio 1</a></li>
+            <li><a href="exercicio2.php">Exercicio 2</a></li>
+            <li><a href="exercicio3.php">Exercicio 3</a></li>
         </ul>
     </nav>
 
