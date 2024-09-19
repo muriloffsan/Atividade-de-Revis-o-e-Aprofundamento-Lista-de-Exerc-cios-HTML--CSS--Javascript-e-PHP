@@ -45,7 +45,7 @@
             color: white;
             border: none;
             cursor: pointer;
-            font-size: 18px;
+            font-size: 19px;
             padding: 12px;
             transition: background 0.3s ease;
         }
