@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="style_processar.css">
 </head>
 <body>
+    <a href="../index.php" class="logout-button">Sair</a>
+
     <div class="feedback-container">
         <h1>Avaliação Recebida!</h1>
         <p><strong>Produto:</strong> Calça</p>
