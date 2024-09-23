@@ -9,10 +9,8 @@
 <body>
     <div class="container">
         <h1>Agendamento:</h1>
-        <!-- O formulário envia os dados via POST para 'processarReserva.php' -->
         <form action="processarReserva.php" method="post">
             <label for="nome">Insira seu nome:</label>
-            <!-- Atributo 'name' é o que será enviado -->
             <input type="text" id="id-nome" name="nome" required>
 
             <label for="date">Insira a data:</label>

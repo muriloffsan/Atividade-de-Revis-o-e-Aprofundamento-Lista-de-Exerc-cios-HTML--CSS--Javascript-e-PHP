@@ -11,7 +11,6 @@
     <div class="confirmation-container">
         <h2>Agendamento realizado!</h2>
         <ul>
-            <!-- Usando 'htmlspecialchars' para proteger contra injeção de código -->
             <li><strong>Nome:</strong> <?php echo htmlspecialchars($_POST['nome']); ?></li>
             <li><strong>Data:</strong> <?php echo htmlspecialchars($_POST['data']); ?></li>
             <li><strong>Hora:</strong> <?php echo htmlspecialchars($_POST['hora']); ?></li>
